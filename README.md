@@ -110,19 +110,20 @@ The backend provides the necessary APIs and database interaction logic. Steps in
 
 
 ### Sign up page
-![Screenshot 2024-11-21 222626](https://github.com/user-attachments/assets/cfbbdc21-b2a8-42f7-92fd-c662743bdc34)
+![Screenshot 2024-11-21 222626](https://github.com/user-attachments/assets/c1b8de8d-4ec5-42d1-8b8f-03cc1ad8046d)
 
 ### Login page
-![Screenshot 2024-11-21 222612](https://github.com/user-attachments/assets/91e5747b-abf5-403f-a45b-2c6effd4de95)
+![Screenshot 2024-11-21 222612](https://github.com/user-attachments/assets/408f958e-35b5-473d-b999-f316ce459c03)
+
 
 ### Admin panel
-![Screenshot 2024-11-21 222700](https://github.com/user-attachments/assets/cc1a9434-0b0e-454f-b135-a29269bbe579)
+![Screenshot 2024-11-21 222700](https://github.com/user-attachments/assets/a0bb1032-e154-47c4-aec6-6449c83e4c34)
 
 ### All Contacts
-![Screenshot 2024-11-21 222711](https://github.com/user-attachments/assets/65d0f614-689d-4841-aa0a-720047f86cae)
+![Screenshot 2024-11-21 222711](https://github.com/user-attachments/assets/04403cf5-2024-4571-b0e8-933b526d3adb)
 
 ### New project
-![Screenshot 2024-11-21 222723](https://github.com/user-attachments/assets/2a9ba7c6-a9b5-451d-aaf0-300368e2b572)
+![Screenshot 2024-11-21 222723](https://github.com/user-attachments/assets/f7aafbb2-eab1-4cf8-b7ad-6e372b34cb8c)
 
 ### Add new user
-![Screenshot 2024-11-21 222740](https://github.com/user-attachments/assets/c14030e5-6e47-47c4-aec7-2bba02986497)
+![Screenshot 2024-11-21 222740](https://github.com/user-attachments/assets/70b72dc5-70d2-45ec-8d3e-90ffa89ddb1a)
