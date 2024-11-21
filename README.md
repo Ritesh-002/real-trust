@@ -104,7 +104,7 @@ The backend provides the necessary APIs and database interaction logic. Steps in
 
 ## Screenshots
 ### Landing page
-![Screenshot 2024-11-21 222527](https://github.com/user-attachments/assets/dac6805a-335a-41c3-9d27-cb20b63b8185)
+https://github.com/user-attachments/assets/dac6805a-335a-41c3-9d27-cb20b63b8185
 ![Screenshot 2024-11-21 222550](https://github.com/user-attachments/assets/6f447577-9e2f-4af7-9f79-d31becb7b6ef)
 ![Screenshot 2024-11-21 222601](https://github.com/user-attachments/assets/92ab895f-f62f-403e-ac3e-fd7e36bdce6f)
 
