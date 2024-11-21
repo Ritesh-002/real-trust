@@ -104,9 +104,10 @@ The backend provides the necessary APIs and database interaction logic. Steps in
 
 ## Screenshots
 ### Landing page
-https://github.com/user-attachments/assets/dac6805a-335a-41c3-9d27-cb20b63b8185
-![Screenshot 2024-11-21 222550](https://github.com/user-attachments/assets/6f447577-9e2f-4af7-9f79-d31becb7b6ef)
-![Screenshot 2024-11-21 222601](https://github.com/user-attachments/assets/92ab895f-f62f-403e-ac3e-fd7e36bdce6f)
+![Screenshot 2024-11-21 222527](https://github.com/user-attachments/assets/a4d62552-a0d9-461c-b28f-1a5d37eadacc)
+![Screenshot 2024-11-21 222550](https://github.com/user-attachments/assets/0ab446ad-8aef-49c1-b657-b292b391d1d2)
+![Screenshot 2024-11-21 222601](https://github.com/user-attachments/assets/2f0773aa-73f5-4db3-9d89-942468e3a2a5)
+
 
 ### Sign up page
 ![Screenshot 2024-11-21 222626](https://github.com/user-attachments/assets/cfbbdc21-b2a8-42f7-92fd-c662743bdc34)
