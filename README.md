@@ -127,3 +127,6 @@ The backend provides the necessary APIs and database interaction logic. Steps in
 
 ### Add new user
 ![Screenshot 2024-11-21 222740](https://github.com/user-attachments/assets/70b72dc5-70d2-45ec-8d3e-90ffa89ddb1a)
+
+Ritesh
+chughritesh002@gmail.com
